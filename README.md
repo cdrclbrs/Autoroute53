@@ -1,9 +1,4 @@
-# Autoroute53
-Route53 DNS Zone export in CSV
-
-
-
-# AWS Route53 DNS Record Exporter Script
+# Autoroute53 - Export Route53 records to CSV
 
 ## Objective
 
